@@ -1,0 +1,29 @@
+ *{
+ 	box-sizing: border-box;
+ }
+body {
+      background-color: rgb(253,229,213);
+
+ 	background-attachment: fixed;
+ 	background-position:  center;
+ 	background-repeat: repeat;
+ 	background-size: cover;
+
+ }
+ 
+ input[type=text] {
+     width: 80%;
+     border: none;
+     cursor: pointer;
+}
+input[type=button]{
+	background-color: rgb(136, 211,255);
+}
+ 
+ h1{
+ 	align-self: center;
+ }
+ h3{
+ 	text-decoration: 2px solid black;
+ 	text-decoration: underline;
+ }
